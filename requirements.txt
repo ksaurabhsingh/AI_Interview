@@ -2,7 +2,6 @@ streamlit
 flask
 langchain
 langchain_ollama
-openai-whisper
 pydub
 pyaudio
 websocket-client
