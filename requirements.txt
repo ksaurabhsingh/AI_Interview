@@ -6,3 +6,4 @@ pydub
 pyaudio
 websocket-client
 requests
+torch
