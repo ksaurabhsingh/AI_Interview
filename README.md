@@ -1,4 +1,4 @@
-# AI Voice Interview Application
+# AI Bot Interview Application
 
 ## Overview
 The AI Voice Interview Application is an advanced AI-based system designed to conduct voice interviews, evaluate candidates, and generate scores along with remarks and attributes. It uses state-of-the-art technologies, including text-to-speech, speech-to-text, and natural language processing (NLP), to streamline and automate the interview process.
@@ -48,7 +48,7 @@ git clone <repository-url>
 ```
 2. Navigate to the project directory:
 ```
-cd ai-voice-interview
+cd ai_interview
 ```
 3. Create a virtual environment:
 ```
@@ -87,8 +87,6 @@ http://localhost:8501
 ## Contributing
 Contributions are welcome! Please create a pull request or raise issues in the repository for enhancements or bug fixes.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Author
 **Saurabh Singh**  
