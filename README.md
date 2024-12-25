@@ -6,7 +6,7 @@ The AI Voice Interview Application is an advanced AI-based system designed to co
 ## ✨ Key Features
 1. 📄 **Resume Parsing and Question Generation**  
    - 📂 Upload resumes in PDF or Word format.  
-   - 🔍 Extract relevant information using RAG (Retrieval-Augmented Generation) and map-reduce techniques.  
+   - 🔍 Extract relevant information using RAG (Retrieval-Augmented Generation).  
    - ❓ Generate meaningful and tailored interview questions based on the resume content.  
 
 2. 🎙️ **AI-Powered Voice Interviews**  
